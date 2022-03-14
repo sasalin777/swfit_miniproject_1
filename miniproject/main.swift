@@ -37,3 +37,9 @@ func printFileManger(_ url: URL,indent: String) {
 
 }
 
+print("//Quick Sort")
+var arr = [ 88,3, 8, 1, 5, 2]
+print(quickSort(&arr, 0, 5))
+
+
+
